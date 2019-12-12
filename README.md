@@ -1,6 +1,11 @@
 # NLP-with-Simpsons
 
-This dataset contains the characters, locations, episode details, and script lines for approximately 600 Simpsons episodes, dating back to 1989. I am having fun to aspply some technics with Simpsons.
+```
+Simsons.ipynb - NLP technins results for Simpson data set.
+WordsEmbedding_In_Keras.ipynb - How use Words Embeddings, implementation in Keras.
+```
+
+Simpson dataset contains the characters, locations, episode details, and script lines for approximately 600 Simpsons episodes, dating back to 1989. I am having fun to aspply some technics with Simpsons.
 
 Setting up the environment:
 python==3.6.7
@@ -14,6 +19,7 @@ Libraries used:
 * sklearn
 * seaborn
 * matplotlib
+* keras
 
 ### So here used such technics as:
 * Cleaning text

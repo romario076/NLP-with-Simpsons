@@ -51,3 +51,5 @@ Libraries used:
 9. Word2Vec model implementation.
 ![alt text](https://user-images.githubusercontent.com/10981310/70634489-fc9c3d00-1c3a-11ea-889d-2e68473d5521.PNG)
 10. Word2Vec results interpretations and visualization.
+
+<hr>

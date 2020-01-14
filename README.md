@@ -20,6 +20,7 @@ Libraries used:
 * seaborn
 * matplotlib
 * keras
+* gensim
 
 ### So here used such technics as:
 * Cleaning text
